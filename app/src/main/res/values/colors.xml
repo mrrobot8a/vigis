@@ -8,4 +8,7 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="blueCustom">#296EF9</color>
+    <!-- En res/values/colors.xml -->
+    <color name="colorCardBackground">@color/colorLightBackground</color>
+    <color name="colorLightBackground">#FFFFFF</color> <!-- Ejemplo de color claro -->
 </resources>
